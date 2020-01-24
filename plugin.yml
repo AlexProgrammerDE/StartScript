@@ -1,0 +1,5 @@
+name: StartupScript
+main: com.alexprogrammerde.StartupScript
+version: 1.0
+api-version: 1.15.1
+commands:
